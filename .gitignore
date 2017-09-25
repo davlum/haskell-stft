@@ -1,9 +1,9 @@
 yinacf10/
-*.wav
 *.swp
 *.o
 *.hi
 dist/
+src/main
 FFTTest*
 TWM
 cabal.sandbox.config
