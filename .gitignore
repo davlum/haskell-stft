@@ -1,0 +1,10 @@
+yinacf10/
+*.wav
+*.swp
+*.o
+*.hi
+dist/
+FFTTest*
+TWM
+cabal.sandbox.config
+.cabal-sandbox/
